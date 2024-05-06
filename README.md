@@ -1,6 +1,4 @@
 # Customer-Churn-Prediction
-Absolutely, let's delve into each of these terms:
-
 1. **Accuracy**:
    - **Definition**: Accuracy is the ratio of correctly predicted instances to the total number of instances in the dataset.
    - **Interpretation**: It indicates the overall correctness of the model's predictions. An accuracy of 0.79 means that around 79% of the model's predictions are correct.
@@ -20,5 +18,3 @@ Absolutely, let's delve into each of these terms:
 5. **Support**:
    - **Definition**: Support is the number of actual occurrences of the class in the specified dataset.
    - **Interpretation**: It provides context about the distribution of classes in the dataset. Higher support values indicate a larger number of instances for that class. For example, a support of 1036 for the "False" class means that there are 1036 instances of customers who do not churn in the dataset.
-
-Understanding these terms helps in comprehensively evaluating the performance of a classification model and identifying areas for improvement.
